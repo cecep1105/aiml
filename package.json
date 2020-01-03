@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.5.1"
+  },
+  "devDependencies": {
+    "puppeteer-tsd": "0.0.2"
+  }
+}
