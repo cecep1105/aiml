@@ -3,7 +3,21 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@tensorflow/tfjs": "^1.5.1"
+    "@tensorflow/tfjs": "1.5.1",
+    "@types/node": "13.1.2",
+    "@types/puppeteer": "^2.0.0",
+    "@types/request-promise": "^4.1.45",
+    "events": "^3.0.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "punycode": "^2.1.1",
+    "puppeteer": "2.0.0",
+    "puppeteer-core": "2.0.0",
+    "querystring": "^0.2.0",
+    "request": "2.88.0",
+    "request-promise": "4.2.5",
+    "tls": "^0.0.1"
   },
   "devDependencies": {
     "puppeteer-tsd": "0.0.2"
